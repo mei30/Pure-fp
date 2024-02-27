@@ -1264,3 +1264,28 @@ INFO: Unsupported notification method: $/setTrace
 2024.02.27 22:54:07 WARN  no build tool detected in workspace '/home/meisam/Documents/Pure-fp'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 2024.02.27 22:54:07 WARN  Build server is not auto-connectable.
 2024.02.27 22:54:09 INFO  time: indexed workspace in 2.04s
+2024.02.27 22:54:45 INFO  compiling pure-fp_bd2c96d2de (16 scala sources)
+2024.02.27 22:54:45 INFO  Deduplicating compilation of Pure-fp_bd2c96d2de from bsp client 'scala-cli 1.1.2' (since 53.721s)
+2024.02.27 22:54:45 INFO  compiling pure-fp_bd2c96d2de (16 scala sources)
+2024.02.27 22:54:46 INFO  time: compiled Pure-fp_bd2c96d2de in 0.85s
+2024.02.27 22:55:38 INFO  compiling pure-fp_bd2c96d2de (17 scala sources)
+2024.02.27 22:55:38 WARN  Could not find semantic tokens for: file:///home/meisam/Documents/Pure-fp/scala/Points2d3d.scala
+2024.02.27 22:55:39 INFO  time: compiled Pure-fp_bd2c96d2de in 1.29s
+2024.02.27 22:55:39 INFO  compiling pure-fp_bd2c96d2de (17 scala sources)
+2024.02.27 22:55:39 INFO  time: compiled Pure-fp_bd2c96d2de in 0.79s
+2024.02.27 22:55:40 INFO  time: indexed workspace in 2.49s
+2024.02.27 22:55:40 INFO  compiling pure-fp_bd2c96d2de (17 scala sources)
+2024.02.27 22:55:43 INFO  time: compiled Pure-fp_bd2c96d2de in 3.1s
+2024.02.27 22:57:46 INFO  compiling pure-fp_bd2c96d2de (18 scala sources)
+2024.02.27 22:57:46 WARN  Could not find semantic tokens for: file:///home/meisam/Documents/Pure-fp/scala/StatementVsExpression.scala
+2024.02.27 22:57:46 INFO  time: compiled Pure-fp_bd2c96d2de in 0.79s
+2024.02.27 22:57:46 INFO  compiling pure-fp_bd2c96d2de (18 scala sources)
+2024.02.27 22:57:47 INFO  time: compiled Pure-fp_bd2c96d2de in 0.62s
+2024.02.27 22:57:48 INFO  time: indexed workspace in 2.04s
+2024.02.27 22:57:51 INFO  compiling pure-fp_bd2c96d2de (18 scala sources)
+2024.02.27 22:57:51 INFO  time: compiled Pure-fp_bd2c96d2de in 0.48s
+2024.02.27 22:57:51 WARN  Could not find semantic tokens for: file:///home/meisam/Documents/Pure-fp/scala/StatementVsExpression.scala
+2024.02.27 22:57:55 INFO  compiling pure-fp_bd2c96d2de (18 scala sources)
+2024.02.27 22:57:55 INFO  time: compiled Pure-fp_bd2c96d2de in 0.38s
+2024.02.27 22:57:58 INFO  compiling pure-fp_bd2c96d2de (18 scala sources)
+2024.02.27 22:57:58 INFO  time: compiled Pure-fp_bd2c96d2de in 0.43s
