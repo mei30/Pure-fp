@@ -1289,3 +1289,13 @@ INFO: Unsupported notification method: $/setTrace
 2024.02.27 22:57:55 INFO  time: compiled Pure-fp_bd2c96d2de in 0.38s
 2024.02.27 22:57:58 INFO  compiling pure-fp_bd2c96d2de (18 scala sources)
 2024.02.27 22:57:58 INFO  time: compiled Pure-fp_bd2c96d2de in 0.43s
+2024.02.27 23:00:44 INFO  compiling pure-fp_bd2c96d2de (19 scala sources)
+2024.02.27 23:00:44 WARN  Could not find semantic tokens for: file:///home/meisam/Documents/Pure-fp/scala/TVShows.scala
+2024.02.27 23:00:44 INFO  time: compiled Pure-fp_bd2c96d2de in 0.81s
+2024.02.27 23:00:44 INFO  compiling pure-fp_bd2c96d2de (19 scala sources)
+2024.02.27 23:00:46 INFO  time: compiled Pure-fp_bd2c96d2de in 0.56s
+2024.02.27 23:00:46 INFO  time: indexed workspace in 2.13s
+2024.02.27 23:00:46 INFO  compiling pure-fp_bd2c96d2de (19 scala sources)
+2024.02.27 23:00:50 INFO  time: compiled Pure-fp_bd2c96d2de in 3.15s
+2024.02.27 23:00:50 INFO  compiling pure-fp_bd2c96d2de (19 scala sources)
+2024.02.27 23:00:52 INFO  time: compiled Pure-fp_bd2c96d2de in 1.6s
