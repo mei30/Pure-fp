@@ -8,7 +8,6 @@ class RankingWordSpec extends munit.FunSuite {
     val obtained = Ranking.rank_words(Ranking.negative_score,input)
     println(obtained)
 
-
     assertEquals(obtained, expected)
   }
 
@@ -19,7 +18,6 @@ class RankingWordSpec extends munit.FunSuite {
     val obtained = Ranking.rank_words(w => Ranking.score(w) + Ranking.bonus(w), input)
     println(obtained)
 
-
     assertEquals(obtained, expected)
   }
 
@@ -28,7 +26,6 @@ class RankingWordSpec extends munit.FunSuite {
     val expected = List("scala", "rust", "haskell", "ada", "java")
 
     val obtained = Ranking.rank_words(w => Ranking.score(w) + Ranking.penalty(w), input)
-
 
     assertEquals(obtained, expected)
   }
@@ -41,6 +38,14 @@ class RankingWordSpec extends munit.FunSuite {
     val morethan3 = algorithm(3)
     val obtained = morethan3(input)
 
+    assertEquals(obtained, expected)
+  }
+
+  test("for a given list cumulative scores should return correct cumulated score") {
+    val input = List("ada", "haskell")
+    val expected = 7
+
+    val obtained = Ranking.cumulativeScore(w => Ranking.score(w), input)
 
     assertEquals(obtained, expected)
   }
