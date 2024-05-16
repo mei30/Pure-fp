@@ -465,3 +465,404 @@ scala.meta.tokenizers.TokenizeException: <input>:24: error: unclosed comment
 2024.05.16 10:36:01 INFO  time: compiled root in 0.78s[0m
 May 16, 2024 11:02:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2024.05.16 11:25:56 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:25:56 INFO  time: compiled root in 0.93s[0m
+2024.05.16 11:25:58 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:25:58 INFO  time: compiled root in 0.17s[0m
+2024.05.16 11:26:00 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:26:00 INFO  time: compiled root in 0.2s[0m
+2024.05.16 11:26:04 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:26:04 INFO  time: compiled root in 0.13s[0m
+2024.05.16 11:26:05 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:26:05 INFO  time: compiled root in 99ms[0m
+2024.05.16 11:26:16 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:26:16 INFO  time: compiled root in 0.18s[0m
+2024.05.16 11:26:33 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:26:33 INFO  time: compiled root in 0.15s[0m
+2024.05.16 11:26:37 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:26:37 INFO  time: compiled root in 72ms[0m
+2024.05.16 11:26:42 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:26:42 INFO  time: compiled root in 91ms[0m
+2024.05.16 11:26:44 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:26:44 INFO  time: compiled root in 0.15s[0m
+2024.05.16 11:26:46 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:26:46 INFO  time: compiled root in 0.2s[0m
+2024.05.16 11:26:49 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:26:49 INFO  time: compiled root in 0.97s[0m
+2024.05.16 11:26:52 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:26:52 INFO  time: compiled root in 0.18s[0m
+2024.05.16 11:26:53 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:26:55 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:26:55 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:26:56 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:26:57 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:27:29 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:27:29 INFO  time: compiled root in 0.25s[0m
+2024.05.16 11:27:30 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:27:33 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:27:33 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:27:33 INFO  time: compiled root in 0.12s[0m
+2024.05.16 11:27:34 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:27:35 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:27:36 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:27:37 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:27:37 INFO  time: compiled root in 75ms[0m
+2024.05.16 11:27:37 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:27:43 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:27:46 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:27:47 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:27:47 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:27:48 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:27:48 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:27:48 INFO  time: compiled root in 0.87s[0m
+2024.05.16 11:27:50 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:27:50 INFO  time: compiled root in 0.8s[0m
+2024.05.16 11:27:55 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:27:55 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:27:55 INFO  time: compiled root in 0.81s[0m
+May 16, 2024 11:27:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4079
+2024.05.16 11:28:02 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:28:02 INFO  time: compiled root in 0.98s[0m
+2024.05.16 11:28:04 ERROR Failed to tokenize input for semantic tokens for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala
+scala.meta.tokenizers.TokenizeException: <input>:21: error: Not one of: `$$', `$'ident, `$'this, `$'BlockExpr, `$'_
+      book.authors.flatMap(author => bookAdaptations(author).map(movie => s"You may like $"))
+                                                                            ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:656)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:364)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:383)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:214)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:982)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:16)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:16)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:331)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:30)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:597)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+[0m
+2024.05.16 11:28:07 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:28:16 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:28:16 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:28:18 INFO  time: compiled root in 1.43s[0m
+2024.05.16 11:28:20 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:28:20 INFO  time: compiled root in 0.17s[0m
+2024.05.16 11:28:23 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:28:23 INFO  time: compiled root in 0.92s[0m
+2024.05.16 11:28:28 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:28:30 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:28:30 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:28:30 INFO  time: compiled root in 0.73s[0m
+2024.05.16 11:28:34 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:28:34 INFO  time: compiled root in 0.15s[0m
+2024.05.16 11:28:37 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:28:37 INFO  time: compiled root in 0.12s[0m
+2024.05.16 11:28:39 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:28:39 INFO  time: compiled root in 0.15s[0m
+2024.05.16 11:28:40 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:28:40 INFO  time: compiled root in 0.82s[0m
+2024.05.16 11:28:47 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:28:47 INFO  time: compiled root in 0.84s[0m
+2024.05.16 11:28:52 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:28:52 INFO  time: compiled root in 0.85s[0m
+2024.05.16 11:28:53 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:28:54 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:28:53 INFO  time: compiled root in 0.44s[0m
+2024.05.16 11:28:54 ERROR Failed to tokenize input for semantic tokens for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala
+scala.meta.tokenizers.TokenizeException: <input>:21: error: Not one of: `$$', `$'ident, `$'this, `$'BlockExpr, `$'_
+      book.authors.flatMap(author => bookAdaptations(author).map(movie => s"You may like ${movie.title}, " + s"Because you liked $"))
+                                                                                                               ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:656)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:364)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:383)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:214)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:982)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:16)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:16)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:331)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:30)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:597)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+[0m
+2024.05.16 11:28:57 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:28:57 INFO  time: compiled root in 0.77s[0m
+2024.05.16 11:29:00 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:29:00 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:29:00 INFO  time: compiled root in 0.99s[0m
+May 16, 2024 11:29:01 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+May 16, 2024 11:29:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4483
+May 16, 2024 11:29:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4490
+2024.05.16 11:29:13 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:29:13 INFO  time: compiled root in 0.92s[0m
+2024.05.16 11:29:17 ERROR Failed to tokenize input for semantic tokens for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala
+scala.meta.tokenizers.TokenizeException: <input>:23: error: Not one of: `$$', `$'ident, `$'this, `$'BlockExpr, `$'_
+          s"You may like ${movie.title}, " + s"Because you liked $author's $"
+                                                                        ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:656)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:252)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:214)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:982)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:16)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:16)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:331)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:30)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:597)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+[0m
+2024.05.16 11:29:18 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:29:18 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:29:18 INFO  time: compiled root in 0.69s[0m
+2024.05.16 11:29:21 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:29:21 INFO  time: compiled root in 0.12s[0m
+May 16, 2024 11:29:24 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2024.05.16 11:29:28 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:29:28 INFO  time: compiled root in 0.15s[0m
+May 16, 2024 11:29:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4633
+May 16, 2024 11:29:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4639
+May 16, 2024 11:29:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4641
+May 16, 2024 11:29:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4665
+May 16, 2024 11:29:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4698
+2024.05.16 11:29:37 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:29:38 INFO  time: compiled root in 1.23s[0m
+2024.05.16 11:30:33 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:30:34 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:30:33 WARN  1 deprecation (since 2.11.0); re-run with -deprecation for details[0m
+2024.05.16 11:30:33 INFO  time: compiled root in 0.97s[0m
+2024.05.16 11:30:34 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:30:34 INFO  time: compiled root in 74ms[0m
+2024.05.16 11:30:38 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:30:38 INFO  time: compiled root in 90ms[0m
+May 16, 2024 11:30:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4885
+2024.05.16 11:30:45 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:30:45 INFO  time: compiled root in 84ms[0m
+2024.05.16 11:30:47 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:30:47 INFO  time: compiled root in 73ms[0m
+2024.05.16 11:30:53 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:30:53 INFO  time: compiled root in 70ms[0m
+2024.05.16 11:30:55 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:30:55 INFO  time: compiled root in 81ms[0m
+2024.05.16 11:30:58 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:30:58 INFO  time: compiled root in 0.74s[0m
+2024.05.16 11:35:36 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:35:36 INFO  compiling book_adaptations-build (1 scala source)[0m
+2024.05.16 11:35:36 INFO  time: compiled book_adaptations-build in 0.85s[0m
+2024.05.16 11:35:36 INFO  time: compiled root in 0.9s[0m
+2024.05.16 11:35:36 INFO  compiling root-test (1 scala source)[0m
+2024.05.16 11:35:36 INFO  time: compiled root-test in 94ms[0m
+2024.05.16 11:35:42 INFO  compiling root-test (1 scala source)[0m
+2024.05.16 11:35:42 INFO  time: compiled root-test in 89ms[0m
+2024.05.16 11:36:26 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:36:26 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:36:26 INFO  time: compiled root in 0.77s[0m
+2024.05.16 11:37:09 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:37:09 INFO  time: compiled root in 0.75s[0m
+2024.05.16 11:37:26 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:37:26 INFO  time: compiled root in 0.15s[0m
+2024.05.16 11:37:26 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:37:27 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+May 16, 2024 11:37:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5175
+May 16, 2024 11:37:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5176
+2024.05.16 11:37:27 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:37:28 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:37:28 INFO  time: compiled root in 0.15s[0m
+2024.05.16 11:37:29 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:37:39 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:37:40 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:37:40 INFO  time: compiled root in 0.14s[0m
+2024.05.16 11:37:41 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:37:42 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:37:42 INFO  time: compiled root in 0.13s[0m
+2024.05.16 11:37:43 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:38:11 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:38:12 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:38:12 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:38:13 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:38:13 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:38:14 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:38:26 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:38:26 INFO  time: compiled root in 0.14s[0m
+2024.05.16 11:38:28 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:38:28 INFO  time: compiled root in 0.12s[0m
+2024.05.16 11:38:36 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:38:36 INFO  time: compiled root in 0.15s[0m
+2024.05.16 11:38:39 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:38:39 INFO  time: compiled root in 0.15s[0m
+2024.05.16 11:38:41 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:38:41 INFO  time: compiled root in 0.19s[0m
+2024.05.16 11:38:51 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:38:51 INFO  time: compiled root in 0.97s[0m
+2024.05.16 11:38:55 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:38:55 WARN  1 deprecation (since 2.11.0); re-run with -deprecation for details[0m
+2024.05.16 11:38:55 INFO  time: compiled root in 0.86s[0m
+May 16, 2024 11:38:56 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2024.05.16 11:38:57 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:38:57 INFO  time: compiled root in 0.14s[0m
+2024.05.16 11:39:00 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:39:00 INFO  time: compiled root in 0.12s[0m
+2024.05.16 11:39:02 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:39:02 INFO  time: compiled root in 0.15s[0m
+2024.05.16 11:39:15 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:39:15 INFO  time: compiled root in 0.15s[0m
+2024.05.16 11:39:17 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:39:17 INFO  time: compiled root in 0.13s[0m
+2024.05.16 11:39:18 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:39:18 INFO  time: compiled root in 0.73s[0m
+2024.05.16 11:39:20 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:39:21 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 11:39:20 INFO  time: compiled root in 0.78s[0m
+2024.05.16 11:39:51 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:39:51 INFO  time: compiled root in 85ms[0m
+2024.05.16 11:39:59 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:39:59 INFO  time: compiled root in 88ms[0m
+2024.05.16 11:40:04 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:40:04 INFO  time: compiled root in 85ms[0m
+2024.05.16 11:40:13 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:40:13 INFO  time: compiled root in 0.17s[0m
+2024.05.16 11:40:14 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:40:14 INFO  time: compiled root in 87ms[0m
+2024.05.16 11:40:17 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:40:17 INFO  time: compiled root in 0.13s[0m
+2024.05.16 11:41:45 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:41:45 INFO  time: compiled root in 0.18s[0m
+2024.05.16 11:41:47 INFO  compiling root (1 scala source)[0m
+2024.05.16 11:41:47 INFO  time: compiled root in 0.95s[0m
+2024.05.16 12:05:00 INFO  compiling root (1 scala source)[0m
+2024.05.16 12:05:00 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:05:00 INFO  time: compiled root in 0.69s[0m
+2024.05.16 12:05:01 INFO  compiling root (1 scala source)[0m
+2024.05.16 12:05:01 INFO  time: compiled root in 0.28s[0m
+2024.05.16 12:14:38 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:14:44 INFO  compiling root (1 scala source)[0m
+2024.05.16 12:14:44 INFO  time: compiled root in 90ms[0m
+2024.05.16 12:14:45 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:14:46 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:14:47 INFO  compiling root (1 scala source)[0m
+2024.05.16 12:14:47 INFO  time: compiled root in 68ms[0m
+2024.05.16 12:14:48 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:14:48 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:14:49 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:14:50 INFO  compiling root (1 scala source)[0m
+2024.05.16 12:14:50 INFO  time: compiled root in 87ms[0m
+2024.05.16 12:14:50 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:14:57 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:14:58 INFO  compiling root (1 scala source)[0m
+2024.05.16 12:14:58 INFO  time: compiled root in 93ms[0m
+2024.05.16 12:14:59 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+May 16, 2024 12:14:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6220
+2024.05.16 12:15:07 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:08 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:09 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:10 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:12 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:12 INFO  compiling root (1 scala source)[0m
+2024.05.16 12:15:12 INFO  time: compiled root in 0.11s[0m
+2024.05.16 12:15:13 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:14 INFO  compiling root (1 scala source)[0m
+2024.05.16 12:15:14 INFO  time: compiled root in 0.15s[0m
+2024.05.16 12:15:14 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:15 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:16 INFO  compiling root (1 scala source)[0m
+2024.05.16 12:15:16 INFO  time: compiled root in 0.11s[0m
+2024.05.16 12:15:16 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:17 INFO  compiling root (1 scala source)[0m
+2024.05.16 12:15:17 INFO  time: compiled root in 0.11s[0m
+2024.05.16 12:15:17 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:20 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:21 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:22 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:22 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+May 16, 2024 12:15:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6373
+2024.05.16 12:15:24 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+May 16, 2024 12:15:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6384
+2024.05.16 12:15:25 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:29 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:30 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:30 INFO  compiling root (1 scala source)[0m
+2024.05.16 12:15:30 INFO  time: compiled root in 0.11s[0m
+2024.05.16 12:15:31 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:33 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:34 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:35 INFO  compiling root (1 scala source)[0m
+2024.05.16 12:15:35 INFO  time: compiled root in 0.12s[0m
+2024.05.16 12:15:36 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:36 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:37 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+May 16, 2024 12:15:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6465
+2024.05.16 12:15:38 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:39 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:40 INFO  compiling root (1 scala source)[0m
+2024.05.16 12:15:40 INFO  time: compiled root in 85ms[0m
+2024.05.16 12:15:40 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:41 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:41 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:43 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:44 INFO  compiling root (1 scala source)[0m
+2024.05.16 12:15:44 INFO  time: compiled root in 0.12s[0m
+2024.05.16 12:15:45 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:46 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:47 INFO  compiling root (1 scala source)[0m
+2024.05.16 12:15:47 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:47 INFO  time: compiled root in 0.83s[0m
+2024.05.16 12:15:50 INFO  compiling root (1 scala source)[0m
+2024.05.16 12:15:50 INFO  time: compiled root in 0.88s[0m
+2024.05.16 12:15:54 INFO  compiling root (1 scala source)[0m
+2024.05.16 12:15:54 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 12:15:54 INFO  time: compiled root in 0.72s[0m

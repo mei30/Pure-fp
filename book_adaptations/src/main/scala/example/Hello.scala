@@ -1,7 +1,9 @@
 package example
 
+import example.Recommendation.bookAdaptations
+
 object Recommendation {
-  case class Book(name: String, authors: List[String])
+  case class Book(title: String, authors: List[String])
   case class Movie(title: String)
 
   val books = List(
@@ -17,15 +19,15 @@ object Recommendation {
   }
 
   def recommendationFeed(books: List[Book]): List[String] = {
-    List.empty
+    for {
+      book <- books
+      author <- book.authors
+      movie <- bookAdaptations(author)
+    } yield s"You may like ${movie.title}, " + s"Because you liked $author's ${book.title}"
   }
 }
 
 object Application extends App {
-  print(
-    Recommendation.books
-      .flatMap(_.authors)
-      .flatMap(Recommendation.bookAdaptations)
-  )
+  print(Recommendation.recommendationFeed(Recommendation.books))
 
 }
