@@ -5,24 +5,53 @@ import example.TVShowParser.TvShow
 object TVShowParser {
   case class TvShow(title: String, startDate: Int, endDate: Int)
 
-  val rawShows = List("Breaking Bad (2008-2013)",
-      "The Wire (2002-2008)",
-      "The Mad Man (2015-2017)")
-  
-  def parseShow(rawShow: String): TvShow = {
-    val indexofopenbracket: Int = rawShow.indexOf("(")
-    val indexofdash: Int = rawShow.indexOf("-")
-    val indexofclosebracket: Int = rawShow.indexOf(")")
-    val title: String = rawShow.substring(0, indexofopenbracket).trim()
-    val startDate: Int = rawShow.substring(indexofopenbracket + 1, indexofdash).toInt
-    val endDate: Int = rawShow.substring(indexofdash + 1, indexofclosebracket).toInt
+  val rawShows = List(
+    "Breaking Bad (2008-2013)",
+    "The Wire (2002-2008)",
+    "The Mad Man (2015-2017)"
+  )
 
-    TvShow(title, startDate, endDate)
-    
+  def extractName(rawShow: String): Option[String] = {
+    val bracketOpen = rawShow.indexOf('(')
+    if (bracketOpen > 0)
+      Some(rawShow.substring(0, bracketOpen).trim)
+    else None
+  }
+
+  def extractYearStart(rawShow: String): Option[Int] = {
+    val bracketOpen = rawShow.indexOf('(')
+    val dash = rawShow.indexOf('-')
+    for {
+      yearStr <-
+        if (bracketOpen != -1 && dash > bracketOpen + 1)
+          Some(rawShow.substring(bracketOpen + 1, dash))
+        else None
+      year <- yearStr.toIntOption
+    } yield year
+  }
+
+  def extractYearEnd(rawShow: String): Option[Int] = {
+    val dash = rawShow.indexOf('-')
+    val bracketClose = rawShow.indexOf(')')
+    for {
+      yearStr <-
+        if (dash != -1 && bracketClose > dash + 1)
+          Some(rawShow.substring(dash + 1, bracketClose))
+        else None
+      year <- yearStr.toIntOption
+    } yield year
+  }
+
+  def parseShow(rawShow: String): Option[TvShow] = {
+    for {
+      name <- extractName(rawShow)
+      yearStart <- extractYearStart(rawShow)
+      yearEnd <- extractYearEnd(rawShow)
+    } yield TvShow(name, yearStart, yearEnd)
   }
 
   def parseShows(rawShows: List[String]): List[TvShow] = {
-    rawShows.map(rawShow => parseShow(rawShow))
+    rawShows.flatMap(rawShow => parseShow(rawShow))
   }
 
   def SortingTvShow(parsedTvShows: List[TvShow]): List[TvShow] = {
@@ -31,6 +60,5 @@ object TVShowParser {
 }
 
 object Driver extends App {
-  // print(TVShowParser.parseShows(TVShowParser.rawShows))
-  print(TVShowParser.SortingTvShow(TVShowParser.parseShows(TVShowParser.rawShows)))
+  print(TVShowParser.parseShows(TVShowParser.rawShows))
 }
