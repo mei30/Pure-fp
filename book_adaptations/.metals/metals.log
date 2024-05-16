@@ -1,0 +1,467 @@
+2024.05.16 09:31:45 INFO  Started: Metals version 1.3.0 in folders '/home/meisam/Documents/Pure-fp/book_adaptations' for client Visual Studio Code 1.80.2.[0m
+SLF4J: Class path contains multiple SLF4J providers.
+SLF4J: Found provider [scribe.slf4j.ScribeServiceProvider@3c27c57b]
+SLF4J: Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@7a253a37]
+SLF4J: See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual provider is of type [scribe.slf4j.ScribeServiceProvider@3c27c57b]
+2024.05.16 09:31:47 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+2024.05.16 09:32:19 INFO  no build target found for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.05.16 09:32:54 WARN  no build target for: /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 09:33:06 WARN  Build server is not auto-connectable.[0m
+May 16, 2024 9:33:08 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.05.16 09:34:04 WARN  Build server is not auto-connectable.[0m
+2024.05.16 09:34:06 WARN  no build target for: /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 09:35:36 INFO  running '/usr/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2024.05.16 09:35:36 WARN  no build target for: /home/meisam/Documents/Pure-fp/book_adaptations/project/metals.sbt[0m
+2024.05.16 09:35:37 ERROR [info] [launcher] getting org.scala-sbt sbt 1.10.0  (this may take some time)...[0m
+2024.05.16 09:36:26 ERROR [info] [launcher] getting Scala 2.12.19 (for sbt)...[0m
+2024.05.16 09:36:27 INFO  [info] welcome to sbt 1.10.0 (Oracle Corporation Java 21.0.2)[0m
+2024.05.16 09:36:29 INFO  [info] loading settings for project book_adaptations-build-build from metals.sbt ...[0m
+2024.05.16 09:36:29 INFO  [info] loading project definition from /home/meisam/Documents/Pure-fp/book_adaptations/project/project[0m
+2024.05.16 09:36:31 INFO  [info] loading settings for project book_adaptations-build from metals.sbt ...[0m
+2024.05.16 09:36:31 INFO  [info] loading project definition from /home/meisam/Documents/Pure-fp/book_adaptations/project[0m
+2024.05.16 09:36:48 INFO  [success] Generated .bloop/book_adaptations-build.json[0m
+2024.05.16 09:36:48 INFO  [info] compiling 1 Scala source to /home/meisam/Documents/Pure-fp/book_adaptations/project/target/scala-2.12/sbt-1.0/classes ...[0m
+2024.05.16 09:36:48 INFO  [info] Non-compiled module 'compiler-bridge_2.12' for Scala 2.12.19. Compiling...[0m
+2024.05.16 09:37:00 INFO  [info]   Compilation completed in 11.41s.[0m
+2024.05.16 09:37:00 INFO  [info] done compiling[0m
+2024.05.16 09:37:01 INFO  [success] Total time: 29 s, completed May 16, 2024, 9:37:01 AM[0m
+2024.05.16 09:37:04 INFO  [info] loading settings for project root from build.sbt ...[0m
+2024.05.16 09:37:04 INFO  [info] set current project to book_adaptations (in build file:/home/meisam/Documents/Pure-fp/book_adaptations/)[0m
+2024.05.16 09:37:06 INFO  [success] Generated .bloop/root-test.json[0m
+2024.05.16 09:37:06 INFO  [success] Generated .bloop/root.json[0m
+2024.05.16 09:37:06 INFO  [success] Total time: 1 s, completed May 16, 2024, 9:37:06 AM[0m
+2024.05.16 09:37:06 INFO  time: ran 'sbt bloopInstall' in 1m29s[0m
+2024.05.16 09:37:06 INFO  Attempting to connect to the build server...[0m
+2024.05.16 09:37:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/meisam/Documents/Pure-fp/book_adaptations/.metals/bsp.trace.json or /home/meisam/.cache/metals/bsp.trace.json[0m
+2024.05.16 09:37:13 WARN  no build target for: /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala[0m
+2024.05.16 09:37:12 INFO  Attempting to connect to the build server...[0m
+2024.05.16 09:37:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/meisam/Documents/Pure-fp/book_adaptations/project/.metals/bsp.trace.json or /home/meisam/.cache/metals/bsp.trace.json[0m
+2024.05.16 09:37:33 ERROR Timeout waiting for 'build/initialize' response[0m
+2024.05.16 09:37:33 WARN  Retrying connection to the build server Bloop[0m
+2024.05.16 09:37:33 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/meisam/Documents/Pure-fp/book_adaptations/project/.metals/bsp.trace.json or /home/meisam/.cache/metals/bsp.trace.json[0m
+2024.05.16 09:37:34 INFO  compilation cancelled[0m
+2024.05.16 09:37:47 INFO  time: Connected to build server in 41s[0m
+2024.05.16 09:37:47 INFO  Connected to Build server: Bloop v1.5.17[0m
+2024.05.16 09:37:47 INFO  time: Imported build in 0.17s[0m
+2024.05.16 09:38:07 INFO  time: indexed workspace in 20s[0m
+2024.05.16 09:49:00 INFO  compiling root (1 scala source)[0m
+2024.05.16 09:49:03 INFO  compiling root-test (1 scala source)[0m
+2024.05.16 09:49:03 INFO  time: compiled root in 3.71s[0m
+2024.05.16 09:49:03 INFO  time: compiled root-test in 0.94s[0m
+2024.05.16 09:50:05 INFO  Disconnecting from Bloop session...[0m
+2024.05.16 09:50:05 INFO  Shut down connection with build server.[0m
+2024.05.16 09:50:05 INFO  Shut down connection with build server.[0m
+2024.05.16 09:50:05 INFO  Attempting to connect to the build server...[0m
+2024.05.16 09:50:07 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/meisam/Documents/Pure-fp/book_adaptations/.metals/bsp.trace.json or /home/meisam/.cache/metals/bsp.trace.json[0m
+2024.05.16 09:50:07 INFO  Attempting to connect to the build server...[0m
+2024.05.16 09:50:07 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/meisam/Documents/Pure-fp/book_adaptations/project/.metals/bsp.trace.json or /home/meisam/.cache/metals/bsp.trace.json[0m
+2024.05.16 09:50:07 INFO  time: Connected to build server in 2.21s[0m
+2024.05.16 09:50:07 INFO  Connected to Build server: Bloop v1.5.17[0m
+2024.05.16 09:50:07 INFO  time: Imported build in 0.16s[0m
+2024.05.16 09:50:10 INFO  time: indexed workspace in 2.83s[0m
+May 16, 2024 9:58:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 163
+2024.05.16 09:59:11 INFO  compiling root (1 scala source)[0m
+2024.05.16 09:59:13 INFO  time: compiled root in 1.41s[0m
+May 16, 2024 10:00:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 443
+May 16, 2024 10:00:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 470
+something's wrong: no file:///home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala in List[<error>]RangePosition(file:///home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala, 83, 83, 97)
+2024.05.16 10:01:11 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:01:13 INFO  time: compiled root in 1.92s[0m
+2024.05.16 10:02:05 ERROR Failed to tokenize input for semantic tokens for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala
+scala.meta.tokenizers.TokenizeException: <input>:6: error: unclosed string interpolation
+  val books = List(Book("FP in scala", List(""Chiusano", "Bjarnason")))
+                                                                    ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:666)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:364)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:383)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:214)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:982)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:16)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:16)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:331)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:30)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:597)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+[0m
+May 16, 2024 10:02:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 869
+2024.05.16 10:02:42 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:02:44 INFO  time: compiled root in 1.35s[0m
+May 16, 2024 10:09:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1049
+May 16, 2024 10:09:50 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2024.05.16 10:09:55 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:09:56 INFO  time: compiled root in 1.16s[0m
+2024.05.16 10:10:35 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:10:36 INFO  time: compiled root in 1.66s[0m
+2024.05.16 10:10:46 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:10:46 INFO  time: compiled root in 0.29s[0m
+May 16, 2024 10:15:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1177
+May 16, 2024 10:15:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1178
+May 16, 2024 10:16:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1281
+May 16, 2024 10:16:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1285
+2024.05.16 10:16:24 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:16:25 INFO  time: compiled root in 1.08s[0m
+May 16, 2024 10:16:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1360
+May 16, 2024 10:16:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1364
+May 16, 2024 10:16:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1498
+May 16, 2024 10:16:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1499
+May 16, 2024 10:17:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1628
+2024.05.16 10:18:42 ERROR Failed to tokenize input for semantic tokens for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala
+scala.meta.tokenizers.TokenizeException: <input>:10: error: unclosed character literal
+    if (author == '')
+                  ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchSingleQuote$1(LegacyScanner.scala:414)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:419)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:214)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:982)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:16)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:16)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:331)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:30)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:597)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+[0m
+May 16, 2024 10:18:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2060
+2024.05.16 10:19:14 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:19:14 INFO  time: compiled root in 0.27s[0m
+May 16, 2024 10:19:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2138
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.7.15/scalafmt-core_2.13-3.7.15.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.11/scala-reflect-2.13.11.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.11/scala-reflect-2.13.11.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.7.15/scalafmt-core_2.13-3.7.15.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.11/scala-library-2.13.11.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.8.12/scalameta_2.13-4.8.12.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.7.15/scalafmt-config_2.13-3.7.15.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.7.15/scalafmt-sysops_2.13-3.7.15.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.11/scala-library-2.13.11.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.7.15/scalafmt-config_2.13-3.7.15.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.8.12/scalameta_2.13-4.8.12.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.7.15/scalafmt-sysops_2.13-3.7.15.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.8.12/parsers_2.13-4.8.12.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.8.12/parsers_2.13-4.8.12.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.8.12/trees_2.13-4.8.12.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.8.12/trees_2.13-4.8.12.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.8.12/common_2.13-4.8.12.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.8.12/common_2.13-4.8.12.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.8.12/common_2.13-4.8.12.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.7.15/scalafmt-config_2.13-3.7.15.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.8.12/parsers_2.13-4.8.12.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.8.12/scalameta_2.13-4.8.12.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.8.12/trees_2.13-4.8.12.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.7.15/scalafmt-core_2.13-3.7.15.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.7.15/scalafmt-config_2.13-3.7.15.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.7.15/scalafmt-sysops_2.13-3.7.15.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.7.15/scalafmt-sysops_2.13-3.7.15.jar
+Still downloading:
+https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.8.12/parsers_2.13-4.8.12.jar (80.98 %, 702267 / 867190)
+https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.8.12/scalameta_2.13-4.8.12.jar (54.22 %, 439083 / 809750)
+https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.7.15/scalafmt-core_2.13-3.7.15.jar (32.88 %, 686714 / 2088845)
+https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.8.12/common_2.13-4.8.12.jar (27.77 %, 684200 / 2463771)
+https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.8.12/trees_2.13-4.8.12.jar (8.93 %, 602217 / 6740134)
+
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.8.12/parsers_2.13-4.8.12.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.8.12/scalameta_2.13-4.8.12.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.7.15/scalafmt-core_2.13-3.7.15.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.8.12/common_2.13-4.8.12.jar
+Still downloading:
+https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.8.12/trees_2.13-4.8.12.jar (74.32 %, 5009513 / 6740134)
+
+May 16, 2024 10:20:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2265
+something's wrong: no file:///home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala in List[<error>]RangePosition(file:///home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala, 485, 485, 499)
+2024.05.16 10:20:56 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:20:56 INFO  time: compiled root in 0.45s[0m
+Still downloading:
+https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.8.12/trees_2.13-4.8.12.jar (82.83 %, 5582953 / 6740134)
+
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.8.12/trees_2.13-4.8.12.jar
+2024.05.16 10:26:33 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:26:33 INFO  time: compiled root in 0.22s[0m
+May 16, 2024 10:26:46 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.05.16 10:26:56 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:26:56 INFO  time: compiled root in 0.27s[0m
+2024.05.16 10:27:01 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:27:01 INFO  time: compiled root in 0.17s[0m
+2024.05.16 10:27:11 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:27:11 INFO  time: compiled root in 0.23s[0m
+2024.05.16 10:27:22 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:27:22 INFO  time: compiled root in 0.22s[0m
+2024.05.16 10:27:24 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:27:24 INFO  time: compiled root in 0.18s[0m
+2024.05.16 10:27:26 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:27:26 INFO  time: compiled root in 0.23s[0m
+2024.05.16 10:27:32 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:27:32 INFO  time: compiled root in 0.2s[0m
+May 16, 2024 10:27:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2715
+2024.05.16 10:27:35 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:27:35 INFO  time: compiled root in 0.29s[0m
+2024.05.16 10:27:37 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:27:37 INFO  time: compiled root in 0.18s[0m
+2024.05.16 10:27:39 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:27:39 INFO  time: compiled root in 0.15s[0m
+2024.05.16 10:27:41 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:27:41 INFO  time: compiled root in 0.18s[0m
+May 16, 2024 10:27:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2802
+May 16, 2024 10:27:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2845
+2024.05.16 10:27:50 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:27:50 INFO  time: compiled root in 0.15s[0m
+May 16, 2024 10:27:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2903
+May 16, 2024 10:27:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2914
+2024.05.16 10:28:54 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:28:54 INFO  time: compiled root in 0.15s[0m
+2024.05.16 10:28:57 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:28:57 INFO  compiling book_adaptations-build (1 scala source)[0m
+2024.05.16 10:28:57 INFO  time: compiled root in 0.28s[0m
+2024.05.16 10:28:57 INFO  Non-compiled module 'compiler-bridge_2.12' for Scala 2.12.19. Compiling...[0m
+2024.05.16 10:29:08 INFO  Compilation completed in 9.377s.[0m
+2024.05.16 10:29:11 INFO  time: compiled book_adaptations-build in 13s[0m
+2024.05.16 10:31:27 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:31:27 INFO  time: compiled root in 0.16s[0m
+2024.05.16 10:31:29 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:31:29 INFO  time: compiled root in 0.16s[0m
+2024.05.16 10:31:38 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:31:38 INFO  time: compiled root in 0.22s[0m
+May 16, 2024 10:31:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3110
+2024.05.16 10:31:48 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:31:48 INFO  time: compiled root in 0.1s[0m
+2024.05.16 10:31:48 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:31:49 INFO  time: compiled root in 0.17s[0m
+2024.05.16 10:33:46 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:33:46 INFO  time: compiled root in 0.9s[0m
+2024.05.16 10:34:24 ERROR Failed to tokenize input for semantic tokens for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala
+scala.meta.tokenizers.TokenizeException: <input>:24: error: unclosed comment
+  print(Recommendation.books.flatMap(_.authors)/*.flatMap(Recommendation.bookAdaptations))
+                                               ^
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:27)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:26)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipNestedComments(LegacyScanner.scala:55)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipToCommentEnd(LegacyScanner.scala:74)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:316)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:214)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:982)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:16)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:16)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:331)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:30)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:597)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+[0m
+2024.05.16 10:34:25 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:34:25 INFO  time: compiled root in 0.1s[0m
+2024.05.16 10:34:25 ERROR Failed to tokenize input for semantic tokens for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala
+scala.meta.tokenizers.TokenizeException: <input>:24: error: unclosed comment
+  print(Recommendation.books.flatMap(_.authors)/*.flatMap(Recommendation.bookAdaptations))
+                                               ^
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:27)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:26)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipNestedComments(LegacyScanner.scala:55)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipToCommentEnd(LegacyScanner.scala:74)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:316)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:214)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:982)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:16)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:16)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:331)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:30)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:597)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+[0m
+May 16, 2024 10:34:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3335
+May 16, 2024 10:34:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3336
+2024.05.16 10:34:28 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:34:28 INFO  time: compiled root in 0.89s[0m
+2024.05.16 10:34:41 INFO  compiling root (1 scala source)[0m
+May 16, 2024 10:34:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3383
+2024.05.16 10:34:41 INFO  time: compiled root in 0.38s[0m
+2024.05.16 10:34:44 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:34:44 INFO  time: compiled root in 0.87s[0m
+May 16, 2024 10:35:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3495
+2024.05.16 10:35:19 ERROR Failed to tokenize input for semantic tokens for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala
+scala.meta.tokenizers.TokenizeException: <input>:24: error: unclosed comment
+  print(Recommendation.books.flatMap(_.authors)/*.flatMap(Recommendation.bookAdaptations))
+                                               ^
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:27)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:26)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipNestedComments(LegacyScanner.scala:55)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipToCommentEnd(LegacyScanner.scala:74)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:316)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:214)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:982)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:16)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:16)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:331)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:30)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:597)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+[0m
+2024.05.16 10:35:20 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:35:20 INFO  time: compiled root in 84ms[0m
+2024.05.16 10:35:20 ERROR Failed to tokenize input for semantic tokens for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala
+scala.meta.tokenizers.TokenizeException: <input>:24: error: unclosed comment
+  print(Recommendation.books.flatMap(_.authors)/*.flatMap(Recommendation.bookAdaptations))
+                                               ^
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:27)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:26)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipNestedComments(LegacyScanner.scala:55)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipToCommentEnd(LegacyScanner.scala:74)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:316)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:214)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:982)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:16)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:16)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:331)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:30)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:597)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+[0m
+2024.05.16 10:35:22 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:35:22 INFO  time: compiled root in 0.74s[0m
+2024.05.16 10:35:29 ERROR Failed to tokenize input for semantic tokens for /home/meisam/Documents/Pure-fp/book_adaptations/src/main/scala/example/Hello.scala
+scala.meta.tokenizers.TokenizeException: <input>:24: error: unclosed comment
+  print(Recommendation.books.flatMap(_.authors)/*.flatMap(Recommendation.bookAdaptations))
+                                               ^
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:27)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:26)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipNestedComments(LegacyScanner.scala:55)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipToCommentEnd(LegacyScanner.scala:74)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:316)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:214)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:982)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:16)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:16)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:331)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:30)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:597)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+[0m
+2024.05.16 10:35:31 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:35:31 INFO  time: compiled root in 0.78s[0m
+2024.05.16 10:35:34 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:35:34 INFO  compiling book_adaptations-build (1 scala source)[0m
+2024.05.16 10:35:35 INFO  compiling root-test (1 scala source)[0m
+2024.05.16 10:35:35 INFO  time: compiled root in 1.2s[0m
+2024.05.16 10:35:35 INFO  time: compiled book_adaptations-build in 1.2s[0m
+2024.05.16 10:35:35 INFO  time: compiled root-test in 0.14s[0m
+2024.05.16 10:35:55 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:35:55 INFO  time: compiled root in 0.81s[0m
+2024.05.16 10:36:01 INFO  compiling root (1 scala source)[0m
+2024.05.16 10:36:01 INFO  time: compiled root in 0.78s[0m
+May 16, 2024 11:02:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
