@@ -2560,3 +2560,8 @@ WARNING: Unmatched cancel notification for request id 7788
 2024.05.17 13:10:30 INFO  compiling root (1 scala source)[0m
 2024.05.17 13:10:31 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
 2024.05.17 13:10:32 INFO  time: compiled root in 1.47s[0m
+2024.05.17 17:54:35 INFO  Shutting down server[0m
+2024.05.17 17:54:35 INFO  shutting down Metals[0m
+2024.05.17 17:54:35 INFO  Shut down connection with build server.[0m
+2024.05.17 17:54:35 INFO  Shut down connection with build server.[0m
+2024.05.17 17:54:35 INFO  Exiting server[0m
