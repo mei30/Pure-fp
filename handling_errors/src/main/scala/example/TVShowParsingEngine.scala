@@ -18,6 +18,19 @@ object TVShowParser {
     else None
   }
 
+  def extractSingleYear(rawShow: String): Option[Int] = {
+    val dash = rawShow.indexOf('-')
+    val bracketOpen = rawShow.indexOf('(')
+    val bracketClose = rawShow.indexOf(')')
+    for {
+      yearStr <-
+        if (dash == -1 && bracketOpen != -1 && bracketClose > bracketOpen + 1)
+          Some(rawShow.substring(bracketOpen + 1, bracketClose))
+        else None
+      year <- yearStr.toIntOption
+    } yield year
+  }
+
   def extractYearStart(rawShow: String): Option[Int] = {
     val bracketOpen = rawShow.indexOf('(')
     val dash = rawShow.indexOf('-')
@@ -45,8 +58,8 @@ object TVShowParser {
   def parseShow(rawShow: String): Option[TvShow] = {
     for {
       name <- extractName(rawShow)
-      yearStart <- extractYearStart(rawShow)
-      yearEnd <- extractYearEnd(rawShow)
+      yearStart <- extractYearStart(rawShow).orElse(extractSingleYear(rawShow))
+      yearEnd <- extractYearEnd(rawShow).orElse(extractSingleYear(rawShow))
     } yield TvShow(name, yearStart, yearEnd)
   }
 
