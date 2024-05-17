@@ -1,15 +1,20 @@
 package example
 
-import example.TVShowParser.TvShow
-
 object TVShowParser {
   case class TvShow(title: String, startDate: Int, endDate: Int)
 
   val rawShows = List(
     "Breaking Bad (2008-2013)",
-    "The Wire (2002-2008)",
+    "The Wire 2002 2008",
     "The Mad Man (2015-2017)"
   )
+
+  def addOrResign(parsedShows: Option[List[TvShow]], newParsedShows: Option[TvShow]): Option[List[TvShow]] = {
+    for {
+      shows <- parsedShows
+      parsedShow <- newParsedShows
+    } yield shows.appended(parsedShow)
+  }
 
   def extractName(rawShow: String): Option[String] = {
     val bracketOpen = rawShow.indexOf('(')
@@ -63,8 +68,18 @@ object TVShowParser {
     } yield TvShow(name, yearStart, yearEnd)
   }
 
+  // Best effort strategy of error-handling
   def parseShows(rawShows: List[String]): List[TvShow] = {
-    rawShows.flatMap(rawShow => parseShow(rawShow))
+    // rawShows.map(parseShow).map(_.toList).flatten
+    rawShows.flatMap(parseShow)
+  }
+
+  // All-or-nothing strategy of error-handling
+  def parseShows2(rawShows: List[String]): Option[List[TvShow]] = {
+    // rawShows.map(parseShow).map(_.toList).flatten
+    val initialResult: Option[List[TvShow]] = Some(List.empty)
+
+    rawShows.map(parseShow).foldLeft(initialResult)(addOrResign)
   }
 
   def SortingTvShow(parsedTvShows: List[TvShow]): List[TvShow] = {

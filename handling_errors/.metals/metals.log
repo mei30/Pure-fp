@@ -1036,3 +1036,436 @@ SEVERE: A severe compiler error occurred, full details of the error can be found
 2024.05.17 08:31:16 INFO  time: compiled root in 0.16s[0m
 2024.05.17 08:31:18 INFO  compiling root (1 scala source)[0m
 2024.05.17 08:31:18 INFO  time: compiled root in 0.81s[0m
+May 17, 2024 8:48:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8382
+2024.05.17 08:54:31 INFO  compiling root (1 scala source)[0m
+2024.05.17 08:54:31 INFO  time: compiled root in 0.27s[0m
+May 17, 2024 8:54:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8469
+2024.05.17 08:54:33 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 08:54:33 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 08:54:34 INFO  compiling root (1 scala source)[0m
+2024.05.17 08:54:34 INFO  time: compiled root in 0.11s[0m
+2024.05.17 08:54:35 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 08:54:36 INFO  compiling root (1 scala source)[0m
+2024.05.17 08:54:36 INFO  time: compiled root in 0.14s[0m
+2024.05.17 08:54:36 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 08:54:37 INFO  compiling root (1 scala source)[0m
+2024.05.17 08:54:37 INFO  time: compiled root in 88ms[0m
+2024.05.17 08:54:37 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 08:54:38 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 08:54:39 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 08:54:40 INFO  compiling root (1 scala source)[0m
+2024.05.17 08:54:40 INFO  time: compiled root in 0.16s[0m
+2024.05.17 08:54:40 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 08:54:41 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 08:54:41 INFO  compiling root (1 scala source)[0m
+2024.05.17 08:54:41 INFO  time: compiled root in 0.11s[0m
+2024.05.17 08:54:42 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 08:54:43 INFO  compiling root (1 scala source)[0m
+2024.05.17 08:54:43 INFO  time: compiled root in 0.16s[0m
+2024.05.17 08:54:44 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 08:54:45 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 08:54:45 INFO  compiling root (1 scala source)[0m
+2024.05.17 08:54:45 INFO  time: compiled root in 0.15s[0m
+2024.05.17 08:54:46 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 08:54:47 INFO  compiling root (1 scala source)[0m
+2024.05.17 08:54:47 INFO  time: compiled root in 0.12s[0m
+2024.05.17 08:54:48 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 08:54:48 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 08:54:49 INFO  compiling root (1 scala source)[0m
+2024.05.17 08:54:49 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 08:54:49 INFO  time: compiled root in 0.77s[0m
+2024.05.17 08:55:18 INFO  Disconnecting from Bloop session...[0m
+2024.05.17 08:55:18 INFO  Shut down connection with build server.[0m
+2024.05.17 08:55:18 INFO  Shut down connection with build server.[0m
+2024.05.17 08:55:18 INFO  Deleted directories inside .bloop[0m
+2024.05.17 08:55:18 INFO  Attempting to connect to the build server...[0m
+2024.05.17 08:55:20 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/meisam/Documents/Pure-fp/handling_errors/.metals/bsp.trace.json or /home/meisam/.cache/metals/bsp.trace.json[0m
+2024.05.17 08:55:20 INFO  Attempting to connect to the build server...[0m
+2024.05.17 08:55:20 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/meisam/Documents/Pure-fp/handling_errors/project/.metals/bsp.trace.json or /home/meisam/.cache/metals/bsp.trace.json[0m
+2024.05.17 08:55:20 INFO  time: Connected to build server in 2.87s[0m
+2024.05.17 08:55:20 INFO  Connected to Build server: Bloop v1.5.17[0m
+2024.05.17 08:55:21 INFO  time: Imported build in 0.14s[0m
+2024.05.17 08:55:23 INFO  time: indexed workspace in 1.75s[0m
+2024.05.17 08:55:23 INFO  compiling root (1 scala source)[0m
+2024.05.17 08:55:28 INFO  compiling root-test (1 scala source)[0m
+2024.05.17 08:55:34 INFO  time: compiled root in 10s[0m
+2024.05.17 08:55:34 INFO  time: compiled root-test in 5.68s[0m
+2024.05.17 08:56:19 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/meisam/Documents/Pure-fp/handling_errors/.metals/dap-server.trace.json or /home/meisam/.cache/metals/dap-server.trace.json[0m
+2024.05.17 08:56:19 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/meisam/Documents/Pure-fp/handling_errors/.metals/dap-client.trace.json or /home/meisam/.cache/metals/dap-client.trace.json[0m
+2024.05.17 08:56:19 INFO  Starting debug proxy for [example.HelloSpec()][0m
+2024.05.17 08:56:20 INFO  Trying to attach to remote debuggee VM localhost:40215 .[0m
+2024.05.17 08:56:20 INFO  Attaching to debuggee VM succeeded.[0m
+2024.05.17 08:56:21 INFO  Canceling debug proxy for [example.HelloSpec()][0m
+2024.05.17 08:56:20 INFO  Closing debug server tcp://0.0.0.0:36195[0m
+May 17, 2024 9:00:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8724
+2024.05.17 09:00:09 INFO  compiling root (1 scala source)[0m
+May 17, 2024 9:00:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8750
+2024.05.17 09:00:12 INFO  time: compiled root in 3.21s[0m
+2024.05.17 09:00:12 INFO  compiling root (1 scala source)[0m
+May 17, 2024 9:00:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8766
+2024.05.17 09:00:13 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 09:00:14 INFO  time: compiled root in 1.64s[0m
+2024.05.17 09:00:54 INFO  Shutting down server[0m
+2024.05.17 09:00:54 INFO  shutting down Metals[0m
+2024.05.17 09:00:54 INFO  Shut down connection with build server.[0m
+2024.05.17 09:00:54 INFO  Shut down connection with build server.[0m
+2024.05.17 09:00:54 INFO  Exiting server[0m
+2024.05.17 09:01:03 INFO  Started: Metals version 1.3.0 in folders '/home/meisam/Documents/Pure-fp/handling_errors' for client Visual Studio Code 1.80.2.[0m
+SLF4J: Class path contains multiple SLF4J providers.
+SLF4J: Found provider [scribe.slf4j.ScribeServiceProvider@5093bba1]
+SLF4J: Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@124bdb34]
+SLF4J: See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual provider is of type [scribe.slf4j.ScribeServiceProvider@5093bba1]
+2024.05.17 09:01:04 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+2024.05.17 09:01:05 INFO  Attempting to connect to the build server...[0m
+2024.05.17 09:01:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/meisam/Documents/Pure-fp/handling_errors/.metals/bsp.trace.json or /home/meisam/.cache/metals/bsp.trace.json[0m
+2024.05.17 09:01:05 INFO  Attempting to connect to the build server...[0m
+2024.05.17 09:01:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/meisam/Documents/Pure-fp/handling_errors/project/.metals/bsp.trace.json or /home/meisam/.cache/metals/bsp.trace.json[0m
+2024.05.17 09:01:05 INFO  time: Connected to build server in 0.77s[0m
+2024.05.17 09:01:05 INFO  Connected to Build server: Bloop v1.5.17[0m
+May 17, 2024 9:01:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2024.05.17 09:01:06 INFO  time: Imported build in 0.21s[0m
+2024.05.17 09:01:17 INFO  no build target found for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+May 17, 2024 9:01:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+May 17, 2024 9:01:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+May 17, 2024 9:01:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+May 17, 2024 9:01:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+2024.05.17 09:01:25 INFO  time: indexed workspace in 7.44s[0m
+2024.05.17 09:01:49 INFO  compiling root (1 scala source)[0m
+2024.05.17 09:01:51 INFO  time: compiled root in 1.29s[0m
+2024.05.17 09:02:22 INFO  compiling root (1 scala source)[0m
+2024.05.17 09:02:22 INFO  time: compiled root in 0.72s[0m
+2024.05.17 09:02:23 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 09:02:24 INFO  compiling root (1 scala source)[0m
+2024.05.17 09:02:24 INFO  time: compiled root in 0.24s[0m
+2024.05.17 09:02:25 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+May 17, 2024 9:02:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 112
+2024.05.17 09:02:25 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 09:02:27 INFO  compiling root (1 scala source)[0m
+2024.05.17 09:02:27 INFO  time: compiled root in 0.31s[0m
+2024.05.17 09:02:28 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 09:02:28 INFO  compiling root (1 scala source)[0m
+2024.05.17 09:02:28 INFO  time: compiled root in 0.42s[0m
+May 17, 2024 9:02:29 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2024.05.17 09:02:29 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 09:02:30 INFO  compiling root (1 scala source)[0m
+2024.05.17 09:02:30 INFO  time: compiled root in 0.25s[0m
+2024.05.17 09:02:30 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 09:02:31 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 09:02:31 INFO  compiling root (1 scala source)[0m
+2024.05.17 09:02:31 INFO  time: compiled root in 0.23s[0m
+2024.05.17 09:02:32 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 09:02:38 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 09:02:39 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 09:02:40 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 09:02:41 INFO  compiling root (1 scala source)[0m
+2024.05.17 09:02:41 INFO  time: compiled root in 0.22s[0m
+2024.05.17 09:02:42 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 09:02:42 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 09:02:43 INFO  compiling root (1 scala source)[0m
+2024.05.17 09:02:43 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 09:02:44 INFO  time: compiled root in 1.2s[0m
+2024.05.17 09:03:01 INFO  compiling root (1 scala source)[0m
+2024.05.17 09:03:01 INFO  compiling handling_errors-build (1 scala source)[0m
+2024.05.17 09:03:01 INFO  compiling root-test (1 scala source)[0m
+2024.05.17 09:03:02 INFO  time: compiled root in 1s[0m
+2024.05.17 09:03:02 INFO  time: compiled root-test in 0.32s[0m
+2024.05.17 09:03:05 INFO  time: compiled handling_errors-build in 3.18s[0m
+2024.05.17 09:59:33 INFO  compiling root (1 scala source)[0m
+2024.05.17 09:59:34 INFO  time: compiled root in 1.11s[0m
+2024.05.17 09:59:38 INFO  compiling root (1 scala source)[0m
+2024.05.17 09:59:38 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 09:59:38 INFO  time: compiled root in 0.93s[0m
+2024.05.17 09:59:42 INFO  compiling root (1 scala source)[0m
+2024.05.17 09:59:44 INFO  time: compiled root in 1.31s[0m
+2024.05.17 09:59:46 INFO  compiling root (1 scala source)[0m
+2024.05.17 09:59:46 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 09:59:47 INFO  time: compiled root in 1.02s[0m
+2024.05.17 09:59:47 INFO  compiling root (1 scala source)[0m
+2024.05.17 09:59:48 INFO  time: compiled root in 0.62s[0m
+2024.05.17 09:59:49 INFO  compiling root (1 scala source)[0m
+2024.05.17 09:59:49 INFO  time: compiled root in 1s[0m
+2024.05.17 09:59:51 INFO  compiling root (1 scala source)[0m
+2024.05.17 09:59:51 INFO  time: compiled root in 0.47s[0m
+2024.05.17 09:59:52 INFO  compiling root (1 scala source)[0m
+2024.05.17 09:59:52 INFO  time: compiled root in 0.51s[0m
+2024.05.17 09:59:53 INFO  compiling root (1 scala source)[0m
+2024.05.17 09:59:53 INFO  time: compiled root in 0.37s[0m
+2024.05.17 10:00:03 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:00:03 INFO  time: compiled root in 0.84s[0m
+2024.05.17 10:08:53 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:08:53 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:08:53 INFO  time: compiled root in 0.25s[0m
+2024.05.17 10:08:54 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:08:56 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:01 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:02 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:03 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:09:03 INFO  time: compiled root in 0.17s[0m
+2024.05.17 10:09:04 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:05 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:06 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:07 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:07 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:09:07 INFO  time: compiled root in 83ms[0m
+2024.05.17 10:09:08 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:10 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:10 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:11 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:12 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:13 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:09:13 INFO  time: compiled root in 88ms[0m
+2024.05.17 10:09:14 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:15 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:16 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:17 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:18 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:09:18 INFO  time: compiled root in 0.17s[0m
+2024.05.17 10:09:18 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:19 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+something's wrong: no file:///home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala in Option[<error>]RangePosition(file:///home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala, 252, 252, 268)
+2024.05.17 10:09:20 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+something's wrong: no file:///home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala in Option[<error>]RangePosition(file:///home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala, 252, 252, 261)
+something's wrong: no file:///home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala in Option[<error>]RangePosition(file:///home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala, 252, 252, 262)
+something's wrong: no file:///home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala in Option[<error>]RangePosition(file:///home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala, 252, 252, 263)
+something's wrong: no file:///home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala in Option[<error>]RangePosition(file:///home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala, 252, 252, 264)
+something's wrong: no file:///home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala in List[<error>]RangePosition(file:///home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala, 259, 259, 273)
+2024.05.17 10:09:22 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:22 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:09:22 INFO  time: compiled root in 0.1s[0m
+2024.05.17 10:09:23 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:24 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:24 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:25 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:25 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:26 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:27 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:09:27 INFO  time: compiled root in 0.16s[0m
+2024.05.17 10:09:28 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+May 17, 2024 10:09:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 827
+2024.05.17 10:09:37 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:37 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:38 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:09:38 INFO  time: compiled root in 0.16s[0m
+2024.05.17 10:09:39 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:40 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:41 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:09:41 INFO  time: compiled root in 74ms[0m
+2024.05.17 10:09:41 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:42 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:43 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:09:43 INFO  time: compiled root in 75ms[0m
+2024.05.17 10:09:43 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:46 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:49 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:49 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:50 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:09:50 INFO  time: compiled root in 0.12s[0m
+2024.05.17 10:09:51 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:52 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:53 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:09:53 INFO  time: compiled root in 73ms[0m
+2024.05.17 10:09:53 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:54 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:54 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:55 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:56 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:09:56 INFO  time: compiled root in 0.1s[0m
+2024.05.17 10:09:56 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:58 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:09:59 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:00 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:00 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:01 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:03 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:03 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:04 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:05 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:10:05 INFO  time: compiled root in 89ms[0m
+2024.05.17 10:10:06 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+something's wrong: no file:///home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala in Option[<error>]RangePosition(file:///home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala, 290, 290, 306)
+2024.05.17 10:10:07 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+something's wrong: no file:///home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala in Option[<error>]RangePosition(file:///home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala, 290, 290, 299)
+2024.05.17 10:10:08 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:09 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:10:09 INFO  time: compiled root in 0.2s[0m
+2024.05.17 10:10:09 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:10 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:10:10 INFO  time: compiled root in 0.14s[0m
+2024.05.17 10:10:10 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:11 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:12 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:10:12 INFO  time: compiled root in 87ms[0m
+2024.05.17 10:10:12 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:14 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:21 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:21 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:10:21 INFO  time: compiled root in 97ms[0m
+2024.05.17 10:10:22 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:22 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:10:22 INFO  time: compiled root in 96ms[0m
+2024.05.17 10:10:23 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:23 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:24 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:10:24 INFO  time: compiled root in 0.14s[0m
+2024.05.17 10:10:25 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:27 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:28 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:10:28 INFO  time: compiled root in 0.15s[0m
+2024.05.17 10:10:29 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:33 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+May 17, 2024 10:10:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1207
+May 17, 2024 10:10:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1208
+2024.05.17 10:10:34 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:35 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:35 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:10:35 INFO  time: compiled root in 76ms[0m
+2024.05.17 10:10:36 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:37 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:38 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:10:38 INFO  time: compiled root in 93ms[0m
+2024.05.17 10:10:39 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:40 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:41 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:42 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:42 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:43 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:10:43 INFO  time: compiled root in 75ms[0m
+2024.05.17 10:10:44 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:45 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:45 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:46 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:10:46 INFO  time: compiled root in 0.11s[0m
+2024.05.17 10:10:47 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:47 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:48 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:10:48 INFO  time: compiled root in 82ms[0m
+2024.05.17 10:10:49 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:50 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:50 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:51 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:52 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:52 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:53 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:10:53 INFO  time: compiled root in 76ms[0m
+2024.05.17 10:10:54 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:54 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:10:54 INFO  time: compiled root in 98ms[0m
+2024.05.17 10:10:55 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:10:56 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:10:56 INFO  time: compiled root in 70ms[0m
+2024.05.17 10:10:56 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:11:12 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+May 17, 2024 10:11:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1369
+2024.05.17 10:11:15 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:11:16 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:11:16 INFO  time: compiled root in 0.13s[0m
+2024.05.17 10:11:17 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+May 17, 2024 10:11:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1398
+2024.05.17 10:11:17 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:11:17 INFO  time: compiled root in 89ms[0m
+2024.05.17 10:11:18 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:11:18 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:11:19 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:11:19 INFO  time: compiled root in 75ms[0m
+2024.05.17 10:11:20 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:11:21 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:11:21 INFO  time: compiled root in 75ms[0m
+2024.05.17 10:11:21 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:11:22 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:11:22 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:11:22 INFO  time: compiled root in 92ms[0m
+2024.05.17 10:11:23 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:11:24 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:11:25 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:11:25 INFO  time: compiled root in 86ms[0m
+2024.05.17 10:11:25 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:11:26 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:11:27 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:11:28 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:11:29 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:11:29 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:11:31 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:11:32 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+May 17, 2024 10:11:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1509
+2024.05.17 10:11:32 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:11:33 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:11:34 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:11:34 INFO  time: compiled root in 0.15s[0m
+2024.05.17 10:11:35 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:11:36 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:11:37 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:11:37 INFO  time: compiled root in 0.15s[0m
+2024.05.17 10:11:37 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:11:45 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:11:45 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:11:46 WARN  Could not load snapshot text for /home/meisam/Documents/Pure-fp/handling_errors/src/main/scala/example/TVShowParsingEngine.scala[0m
+2024.05.17 10:11:47 INFO  time: compiled root in 1.07s[0m
+2024.05.17 10:21:59 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:21:59 INFO  time: compiled root in 0.22s[0m
+May 17, 2024 10:22:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1714
+2024.05.17 10:22:07 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:22:07 INFO  time: compiled root in 0.14s[0m
+2024.05.17 10:22:10 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:22:10 INFO  time: compiled root in 0.14s[0m
+2024.05.17 10:22:15 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:22:15 INFO  time: compiled root in 0.17s[0m
+May 17, 2024 10:22:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1848
+2024.05.17 10:22:19 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:22:19 INFO  time: compiled root in 94ms[0m
+2024.05.17 10:22:22 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:22:22 INFO  time: compiled root in 0.14s[0m
+2024.05.17 10:22:33 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:22:33 INFO  time: compiled root in 0.16s[0m
+2024.05.17 10:22:37 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:22:37 INFO  time: compiled root in 0.13s[0m
+2024.05.17 10:22:41 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:22:41 INFO  time: compiled root in 0.16s[0m
+2024.05.17 10:22:48 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:22:48 INFO  time: compiled root in 0.16s[0m
+2024.05.17 10:22:50 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:22:50 INFO  time: compiled root in 0.2s[0m
+2024.05.17 10:22:51 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:22:51 INFO  time: compiled root in 0.15s[0m
+2024.05.17 10:22:54 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:22:54 INFO  time: compiled root in 0.12s[0m
+2024.05.17 10:22:57 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:22:57 INFO  time: compiled root in 0.14s[0m
+2024.05.17 10:23:01 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:23:01 INFO  time: compiled root in 0.15s[0m
+2024.05.17 10:23:04 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:23:04 INFO  time: compiled root in 0.13s[0m
+2024.05.17 10:23:07 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:23:07 INFO  time: compiled root in 92ms[0m
+2024.05.17 10:23:09 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:23:09 INFO  time: compiled root in 0.29s[0m
+2024.05.17 10:23:12 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:23:12 INFO  time: compiled root in 0.18s[0m
+2024.05.17 10:23:14 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:23:14 INFO  time: compiled root in 0.13s[0m
+2024.05.17 10:23:44 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:23:44 INFO  time: compiled root in 0.15s[0m
+2024.05.17 10:25:10 INFO  compiling root (1 scala source)[0m
+2024.05.17 10:25:10 INFO  time: compiled root in 0.86s[0m
+May 17, 2024 10:25:15 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
